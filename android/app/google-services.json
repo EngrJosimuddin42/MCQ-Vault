@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "150027876429",
+    "project_id": "mcq-vault",
+    "storage_bucket": "mcq-vault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150027876429:android:f93e312bf9477b2e360404",
+        "android_client_info": {
+          "package_name": "com.josim.mcq_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150027876429-dc4182i107u876gi2endqn2rjroes392.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josim.mcq_vault",
+            "certificate_hash": "05383fb666521fea66f3eae727a8877154a40722"
+          }
+        },
+        {
+          "client_id": "150027876429-tdst3odscr26d37s5clc5nfjv8thtpf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-wAIE4PICXJs2bYnvfxLY-W73n2s1ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150027876429-tdst3odscr26d37s5clc5nfjv8thtpf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150027876429-6g7b4h2be3g9bvdjvecf70c6d3a81der.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mcqVault"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
